@@ -46,6 +46,12 @@ flutter run
 
 欢迎贡献听力资源和代码！
 
+## 联系我，备注：睡前听力app
+
+<p align="center">
+  <img src="images/wechat.png" width="100" alt="wechat"/>
+</p>
+
 ## 许可证
 
 详见 [LICENSE](LICENSE) 文件
