@@ -49,7 +49,7 @@ flutter run
 ## 联系我，备注：睡前听力app
 
 <p align="center">
-  <img src="images/wechat.png" width="100" alt="wechat"/>
+  <img src="images/wechat.png" width="200" alt="wechat"/>
 </p>
 
 ## 许可证
